@@ -31,5 +31,9 @@ if(isset($_POST['namapengguna'])){
     alert('Terdapat kesalahan pada username atau password');
     window.location='home.php'</script>";
     
-}  ?>
+}
+
+//testing a comment
+
+?>
    
